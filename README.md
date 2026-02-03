@@ -1,7 +1,9 @@
 # 📊 NYC Project Management Workforce Analysis in 2025
 ### Education • Salary • Talent Shortages in NYC Public Sector
 
-A data-driven workforce study analyzing how **education, compensation, and hiring demand** interact across Project Management roles in New York City government agencies.
+## Summary
+
+This project examines how education level relates to salary and job demand across Project Management (PM) roles in New York City public agencies. Using two datasets (NYC Citywide Payroll for FY 2024–2025 and NYC Job Postings), the analysis evaluates (1) whether higher education is associated with higher pay, (2) which education levels are most requested by employers, and (3) the competitiveness of PM job titles by comparing supply (employees) and demand (postings). After cleaning, standardizing, and de-identifying both datasets, statistical modeling and visualizations were conducted to uncover patterns. The results help identify salary trends, education expectations, and workforce shortages in the NYC PM labor market.
 
 Built with **R + tidyverse** to transform raw payroll and job posting data into actionable insights for workforce planning and talent strategy.
 

@@ -88,20 +88,14 @@ Oversupply:
 - Community Coordinator
 - Construction Project Manager
 
-## 6. Running the Project
-To run the project in your local environment, follow these steps:
-1. Install RStudio
-2. Clone the repository to your local machine
-3. Run the script
-
-## 7. Skills Demonstrated
+## 6. Skills Demonstrated
 - Data wrangling & transformation
 - Statistical modeling
 - Workforce analytics
 - Business storytelling with data
 - Reproducible R workflows
 
-## 8. Why This Matters
+## 7. Why This Matters
 This analysis helps:
 - Agencies plan hiring
 - Align education supply with demand
